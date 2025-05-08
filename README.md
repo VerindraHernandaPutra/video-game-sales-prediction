@@ -1,4 +1,4 @@
-# video-game-sales-prediction
+# VIDEO GAME SALES PREDICTION WITH REGRESSION
 
 This project is my first machine learning big data project, which I worked on as part of a study group hosted by MBC (Machine Learning and Big Data Community). The goal of this project is to build a predictive model that forecasts video game sales based on historical data.
 
